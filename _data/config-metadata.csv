@@ -3,12 +3,10 @@ title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
-subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,,,contentLocation
+claim name,Claim,true
+district,District,true
+township,Township
+range,Range
+section,Section
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier
-type,Type,,DCTERMS.type
-format,Format,,,encodingFormat
-rightsstatement,,,DCTERMS.rights,license
