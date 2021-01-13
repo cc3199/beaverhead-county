@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Beaverhead Property Files
+title: Beaverhead Mine Documents
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Mining Claim Information for Beaverhead County
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: ""
+description: "This collection contains mining documents for properties and claims within Beaverhead County in Southwest Montana. These documents include Assays, Correspondence, Maps, Newsclippings, Photos, Publications, Reports, Surveys, or other material related to any property. This webpage allows viewers to browse and search by claim or district on the navigation tabs above. Or you can search any keywords into the search bar. The 'Map' or 'Timeline' tabs may also aid in research and finding material using different contexts."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: montana; beaverhead; mining claims; property files;
+keywords: montana; beaverhead; mining claims; property files; mines; 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Montana Bureau of Mines and Geology
 # Organization branding
